@@ -5,21 +5,7 @@ App can be found here: https://aiburk.shinyapps.io/tidytuesday-cdc-datasets/
 
 <p align="center">
   <img src="/2025/week_6/Images/cdc_datasets_1.png" width="49%" 
-    alt="A screenshot showing one section of a shiny app. 
-    A horizontal navigation bar at the top displays in order from left to right: the title 'CDC Datasets', 
-    an 'Overview' tab panel, a 'Programs' tab panel, a 'Keywords' tab panel' and a 'References' tab panel. 
-    The 'Program' tab panel is selected and below the navigation bar is the page associated with this tab. 
-    The title at the top of this page reads 'Number of datasets by program', and below it are 2 tab panels 
-    'Plot' and 'Table'. The 'Plot' tab panel is selected and displayed below it is 
-    a horizontal bar chart that visualizes the number of datasets related to
-    each CDC program, with number of datasets on the x-axis,
-    program names on the y-axis listed in descending order, and
-    labels at the end of each bar displaying the count for each program.
-    The program with the most datasets is 'Program Management', with 1037 
-    datasets in total, a significantly higher count than any other program,
-    with the second highest dataset count only being 108, belonging to the
-    program 'National Institute for Occupational Safety and Health'. 
-    The 'Table' tab accompanies the plot and displays the same data in table format.">
+    alt="A screenshot showing one section of a shiny app. A horizontal navigation bar at the top displays in order from left to right: the title 'CDC Datasets', an 'Overview' tab panel, a 'Programs' tab panel, a 'Keywords' tab panel' and a 'References' tab panel. The 'Program' tab panel is selected and below the navigation bar is the page associated with this tab. The title at the top of this page reads 'Number of datasets by program', and below it are 2 tab panels 'Plot' and 'Table'. The 'Plot' tab panel is selected and displayed below it is a horizontal bar chart that visualizes the number of datasets related to each CDC program, with number of datasets on the x-axis, program names on the y-axis listed in descending order, and labels at the end of each bar displaying the count for each program. The program with the most datasets is 'Program Management', with 1037 datasets in total, a significantly higher count than any other program, with the second highest dataset count only being 108, belonging to the program 'National Institute for Occupational Safety and Health'. The 'Table' tab accompanies the plot and displays the same data in table format.">
   &nbsp;
   <img src="/2025/week_6/Images/cdc_datasets_2.png" width="49%">
 </p>
