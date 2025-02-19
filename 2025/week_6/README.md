@@ -1,5 +1,5 @@
 ## Tidy Tuesday - 2025 Week 6: CDC Datasets
-R code used to produce a shiny app that visualizes metadata for CDC datasets uploaded before January 28th, 2025 and are backed up on archive.org. 
+R code used to produce a shiny app that visualizes metadata for CDC datasets uploaded before January 28th, 2025 and backed up on archive.org. 
 
 App can be found here: https://aiburk.shinyapps.io/tidytuesday-cdc-datasets/
 
